@@ -46,6 +46,13 @@
 
 - BE: Spring boot(3.2.8), JDK(17), Gradle(8.8), IntelliJ(2024.1.4)
 
+![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![spring_boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-0072B8?style=for-the-badge&color=0072B8)
+![QueryDSL](https://img.shields.io/badge/QueryDSL-3B3B3B?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAeRk5mAAAABGdBTUEAALGPC/xhBQAAAAJcEhZcwAADsMAAA7DAcdvqGQAABJ5RVh0U29mdHwgQmF0Y2hWb3JrZXI=)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-23A03A?style=for-the-badge&logo=Gradle&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 - FE: Next.js(14.2.5), Node.js(20.5.1), TypeScript(5.1.3)
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
@@ -55,6 +62,15 @@
 - DATABASE: MySQL(8.0.39)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+
+
+- INFRA: Ubuntu(Ubuntu 20.04 LTS)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
+![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS%20-527FFF?style=for-the-badge&logo=RDS%20&logoColor=white) 
 
 - COMMON: Swagger(2.0.2),
 
@@ -95,7 +111,7 @@
 
 | AI 챗봇 | 이력서 | 언어 선택 |
 | --- | --- | --- |
-| <img src="https://github.com/user-attachments/assets/e59e2cce-ce1a-4913-93ca-86ded98f236e" alt="AIchatbot_page" height="600" width="300" /> | <img src="https://github.com/user-attachments/assets/19327e45-3fb5-42a8-87a2-3c653cfdd14d" alt="resume_page" height="600" width="300" /> | <img src="https://github.com/user-attachments/assets/9657d4ad-5bd4-4eb8-b31b-9ba47c4b3a8b" alt="language_page" height="600" width="300" /> |
+| <img src="https://github.com/user-attachments/assets/d4ab4c8b-4ccb-4baa-a6fc-746e40a27876" alt="AIchatbot_page" height="600" width="300" /> | <img src="https://github.com/user-attachments/assets/19327e45-3fb5-42a8-87a2-3c653cfdd14d" alt="resume_page" height="600" width="300" /> | <img src="https://github.com/user-attachments/assets/9657d4ad-5bd4-4eb8-b31b-9ba47c4b3a8b" alt="language_page" height="600" width="300" /> |
 
 
 ---
