@@ -107,7 +107,7 @@
 
 | 공고 필터링 페이지 |
 | --- |
-| <img src="https://github.com/user-attachments/assets/68960e93-1bd4-4a9b-8542-83884ec98ecb" alt="RecruitFilter_page" height="600" width="270" /> <img src="https://github.com/user-attachments/assets/0ce2a6ac-812c-40df-ba72-f1a92e706de5" alt="RecruitFilter_page" height="600" width="270" /> <img src="https://github.com/user-attachments/assets/37aaf7e0-65b9-4fed-b5da-0c025502a031" alt="RecruitFilter_page" height="600" width="270" />|
+| <img src="https://github.com/user-attachments/assets/68960e93-1bd4-4a9b-8542-83884ec98ecb" alt="RecruitFilter_page" height="600" width="250" /> <img src="https://github.com/user-attachments/assets/0ce2a6ac-812c-40df-ba72-f1a92e706de5" alt="RecruitFilter_page" height="600" width="250" /> <img src="https://github.com/user-attachments/assets/37aaf7e0-65b9-4fed-b5da-0c025502a031" alt="RecruitFilter_page" height="600" width="250" />|
 
 | AI 챗봇 | 이력서 | 언어 선택 |
 | --- | --- | --- |
